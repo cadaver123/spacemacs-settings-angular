@@ -8,7 +8,7 @@ This is also needed:
 npm install -g typescript typescript-language-server prettier typescript-formatter
 ```
 
-Windows installation:
+Spacemacs Windows installation:
 1) Fonts: https://fonts.google.com/specimen/Source+Code+Pro
 2) Variables:
 ```
