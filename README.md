@@ -22,7 +22,7 @@ cd %HOME%
 git clone https://github.com/syl20bnr/spacemacs .emacs.d
 ```
 5) 
-```choco install pt diffutils zip ```
+```choco install pt diffutils zip ag```
 
 (Full install instructions: https://gist.github.com/cdaven/135298087efb0ffc5dab93fd56249b38 )
 
