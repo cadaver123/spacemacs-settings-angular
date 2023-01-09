@@ -5,7 +5,7 @@ My spacemacs settings for Angular.
 This is also needed:
 
 ```
-npm install -g typescript typescript-language-server prettier typescript-formatter @angular/language-server
+npm install -g typescript typescript-language-server prettier typescript-formatter @angular/language-service@next @angular/language-server
 ```
 
 Spacemacs Windows installation:
